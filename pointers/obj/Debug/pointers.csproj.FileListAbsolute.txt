@@ -1,0 +1,6 @@
+C:\code\pointers\pointers\pointers\bin\Debug\pointers.exe.config
+C:\code\pointers\pointers\pointers\bin\Debug\pointers.exe
+C:\code\pointers\pointers\pointers\bin\Debug\pointers.pdb
+C:\code\pointers\pointers\pointers\obj\Debug\pointers.csprojResolveAssemblyReference.cache
+C:\code\pointers\pointers\pointers\obj\Debug\pointers.exe
+C:\code\pointers\pointers\pointers\obj\Debug\pointers.pdb
